@@ -1,1 +1,1 @@
-# Using ASF4 as platformio library
+# Using ASF4 project in PlatformIO
